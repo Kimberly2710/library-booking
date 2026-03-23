@@ -1,4 +1,4 @@
-# 📚 Library Booking System
+#  Library Booking System
 
 A full stack Library Management System that allows students to browse 
 and borrow books online, and administrators to manage the entire 
@@ -6,7 +6,7 @@ library digitally — no paperwork needed.
 
 ---
 
-## 🌍 What This System Does
+## What This System Does
 
 This system replaces the traditional manual library process with a 
 fast, secure and easy to use digital platform.
@@ -25,7 +25,7 @@ fast, secure and easy to use digital platform.
 
 ---
 
-## 🖥️ Tech Stack
+##  Tech Stack
 
 | Layer | Technology | Purpose |
 |-------|-----------|---------|
@@ -38,7 +38,7 @@ fast, secure and easy to use digital platform.
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 ```
 library-booking/
 ├── backend/
@@ -58,7 +58,7 @@ library-booking/
 
 ---
 
-## ⚙️ Setup Instructions (For Developers)
+## Setup Instructions (For Developers)
 
 ### What You Need Installed First
 - [Node.js](https://nodejs.org) — version 18 or higher
@@ -204,7 +204,7 @@ http://localhost:5173
 
 ---
 
-## 🔐 Default Login Credentials
+##  Default Login Credentials
 
 | Role | Email | Password |
 |------|-------|----------|
@@ -214,7 +214,7 @@ To create a student account click **"Create an account"** on the login page.
 
 ---
 
-## 🌐 API Endpoints
+##  API Endpoints
 
 | Method | Endpoint | Description | Auth Required |
 |--------|----------|-------------|---------------|
@@ -235,7 +235,7 @@ To create a student account click **"Create an account"** on the login page.
 
 ---
 
-## 🔄 How the System Works
+##  How the System Works
 ```
 Student registers → logs in → gets JWT token
          ↓
@@ -250,15 +250,11 @@ Student returns book → admin clicks Return
 Copy available again → available count increases
 ```
 
----
 
-## 👥 Built By
-
-Kimberly Jahenda — Full Stack Developer
 
 ---
 
-## 📌 Notes
+##  Notes
 
 - Make sure XAMPP MySQL and Apache are running before starting the backend
 - Both backend and frontend servers must run at the same time
